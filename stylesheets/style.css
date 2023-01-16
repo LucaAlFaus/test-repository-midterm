@@ -1,0 +1,78 @@
+body {
+    text-align: center;
+    background-image: url(../images/tools\ bar.jpeg);
+}
+
+h1{
+    font-family: 'Palatino', cursive; font-size: 35px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 25px;
+    color: rgb(18, 18, 53);
+}
+
+button{
+    color:blue;
+    background-color: yellow;
+    flex: auto;
+} 
+
+p {
+    /* color: red; */
+    /* color: green; */
+    color: black;
+    font-size: 22px;
+    text-align: center;
+    margin: 20px 20px 30px 20px
+}
+
+section {
+
+    background-color: rgba(201, 182, 147, 0.799);
+    padding: 25px; 60px;
+    margin: 40px; 100px;
+    border-radius: 15px;
+}
+
+footer{
+    color: blueviolet;
+}
+
+.logo-brand {
+    
+}
+
+.image-empress {
+    width: 400px;
+    height: auto; 
+    border-radius: 15px;
+}
+
+.image-kraken {
+    width: 400px;
+    height: auto;
+    border-radius: 15px;
+}
+
+.image-full {
+    width: 400px;
+    height: auto;
+    border-radius: 15px;
+}
+
+.video-empress {
+    max-width: 100%;
+    height: auto;
+}
+
+.video-empress iframe {
+    width: 100%;
+    min-height: 300px;
+}
+
+.image-facebook {
+    width: 50px;
+}
+
